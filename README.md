@@ -1,0 +1,2 @@
+# scientific_computing_christian_hill
+learning scientific programming with python
